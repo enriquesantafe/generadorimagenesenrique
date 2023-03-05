@@ -75,8 +75,8 @@ body {
 .showcase form input,
 form select {
   font-size: 20px;
-  width: 500px;
-  max-width: 500px;
+  width: 100%;
+  max-width: 800px;
   padding: 1rem;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -99,7 +99,6 @@ form button:hover {
 }
 
 /* Image */
-
 .image {
   width: 100%;
   margin-top: 2rem;
